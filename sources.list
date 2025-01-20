@@ -1,0 +1,3 @@
+deb http://old-releases.ubuntu.com/ubuntu jaunty main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu jaunty-updates main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu jaunty-security main restricted universe multiverse
